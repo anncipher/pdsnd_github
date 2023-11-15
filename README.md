@@ -44,6 +44,9 @@ Python 3.6.6 - The language used to develop this.
 pandas - One of the libraries used for this.
 numpy - One of the libraries used for this.
 
+### Author
+Ann Cliff
+
 ### Credits
 Udacity - Udacity's Programming for Data Science Nanodegree program and fellow scholars were of tremendous help.
 
